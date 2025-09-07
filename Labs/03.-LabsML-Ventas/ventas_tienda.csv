@@ -1,0 +1,501 @@
+﻿ID_Venta,Producto,Categoría,Precio,Cantidad,Fecha,Ciudad,Método_Pago
+1,Celular,Electrónica,250000,1,2025-06-15,,Efectivo
+2,Silla Gamer,Hogar,120000,2,2025-01-26,Valparaíso,Transferencia
+3,Celular,Electrónica,250000,5,2025-04-18,Santiago,Transferencia
+4,Zapatos,Ropa,35000,1,2025-08-21,Santiago,Tarjeta
+5,Silla Gamer,Hogar,120000,2,2025-02-23,Antofagasta,Transferencia
+6,Auriculares,Electrónica,15000,5,2024-12-05,Valparaíso,Transferencia
+7,Licuadora,Hogar,45000,4,2024-12-13,Valparaíso,Efectivo
+8,Televisor,Electrónica,300000,3,2024-09-17,Santiago,Tarjeta
+9,Zapatos,Ropa,35000,3,2025-05-09,Concepción,Tarjeta
+10,Silla Gamer,Hogar,120000,3,2025-02-24,Santiago,Tarjeta
+11,Zapatos,Ropa,35000,1,2025-02-01,Concepción,Efectivo
+12,Televisor,Electrónica,300000,3,2025-03-26,Santiago,Transferencia
+13,Polera,Ropa,12000,5,2025-01-02,Santiago,Efectivo
+14,Celular,Electrónica,250000,5,2024-11-07,Concepción,Transferencia
+15,Televisor,Electrónica,300000,3,2025-07-04,Antofagasta,Tarjeta
+16,Celular,Electrónica,250000,1,2025-03-08,,Tarjeta
+17,Escritorio,Hogar,70000,1,2025-08-04,Valparaíso,Tarjeta
+18,Zapatos,Ropa,35000,3,2025-08-23,La Serena,Transferencia
+19,Camisa,Ropa,18000,2,2025-07-14,Concepción,Efectivo
+20,Silla Gamer,Hogar,120000,3,2024-11-13,,Transferencia
+21,Celular,Electrónica,250000,5,2025-02-26,,Tarjeta
+22,Licuadora,Hogar,45000,2,2024-11-19,Valparaíso,Efectivo
+23,Zapatos,Ropa,35000,3,2025-06-29,,Transferencia
+24,Licuadora,Hogar,45000,2,2024-09-14,,Efectivo
+25,Auriculares,Electrónica,15000,2,2025-08-19,Santiago,Efectivo
+26,Zapatos,Ropa,35000,3,2025-03-12,Santiago,Tarjeta
+27,Televisor,Electrónica,300000,3,2024-10-01,Valparaíso,Transferencia
+28,Polera,Ropa,12000,4,2025-03-26,,Efectivo
+29,Cargador,Electrónica,8000,3,2025-08-04,Valparaíso,Tarjeta
+30,Licuadora,Hogar,45000,5,2024-12-04,Concepción,Transferencia
+31,Televisor,Electrónica,300000,4,2025-04-22,Antofagasta,Efectivo
+32,Camisa,Ropa,18000,2,2025-03-20,Valparaíso,Transferencia
+33,Polera,Ropa,12000,1,2025-03-07,Santiago,Tarjeta
+34,Cargador,Electrónica,8000,2,2024-09-22,,Efectivo
+35,Televisor,Electrónica,300000,1,2024-09-17,La Serena,Efectivo
+36,Televisor,Electrónica,300000,4,2025-05-08,Antofagasta,Efectivo
+37,Licuadora,Hogar,45000,1,2025-07-05,,Transferencia
+38,Celular,Electrónica,250000,5,2025-05-02,Concepción,Transferencia
+39,Camisa,Ropa,18000,1,2025-05-28,Concepción,Efectivo
+40,Cargador,Electrónica,8000,4,2024-12-20,Santiago,Transferencia
+41,Escritorio,Hogar,70000,5,2024-09-07,Valparaíso,Transferencia
+42,Celular,Electrónica,250000,3,2024-12-26,,Transferencia
+43,Televisor,Electrónica,300000,2,2025-09-03,Valparaíso,Efectivo
+44,Cargador,Electrónica,8000,5,2025-04-14,Antofagasta,Tarjeta
+45,Televisor,Electrónica,300000,3,2025-05-07,La Serena,Tarjeta
+46,Celular,Electrónica,250000,3,2025-01-26,Concepción,Tarjeta
+47,Auriculares,Electrónica,15000,2,2025-03-18,Antofagasta,Tarjeta
+48,Celular,Electrónica,250000,4,2024-12-13,Santiago,Transferencia
+49,Cargador,Electrónica,8000,2,2025-05-07,,Efectivo
+50,Licuadora,Hogar,45000,2,2025-06-26,Concepción,Transferencia
+51,Televisor,Electrónica,300000,4,2025-05-30,Valparaíso,Transferencia
+52,Silla Gamer,Hogar,120000,3,2025-06-25,La Serena,Transferencia
+53,Camisa,Ropa,18000,4,2024-11-01,Antofagasta,Efectivo
+54,Celular,Electrónica,250000,2,2025-08-07,Valparaíso,Tarjeta
+55,Camisa,Ropa,18000,1,2024-10-08,Antofagasta,Transferencia
+56,Silla Gamer,Hogar,120000,5,2025-07-04,Valparaíso,Tarjeta
+57,Celular,Electrónica,250000,1,2024-10-13,Valparaíso,Tarjeta
+58,Auriculares,Electrónica,15000,3,2025-03-13,Santiago,Transferencia
+59,Silla Gamer,Hogar,120000,3,2025-08-25,,Efectivo
+60,Silla Gamer,Hogar,120000,5,2025-07-07,Valparaíso,Transferencia
+61,Televisor,Electrónica,300000,5,2024-11-27,La Serena,Tarjeta
+62,Polera,Ropa,12000,4,2025-07-19,Valparaíso,Tarjeta
+63,Celular,Electrónica,250000,4,2025-08-29,Concepción,Efectivo
+64,Zapatos,Ropa,35000,4,2025-04-11,,Tarjeta
+65,Celular,Electrónica,250000,1,2024-09-23,La Serena,Transferencia
+66,Camisa,Ropa,18000,1,2025-02-06,Valparaíso,Tarjeta
+67,Silla Gamer,Hogar,120000,5,2025-01-26,La Serena,Tarjeta
+68,Zapatos,Ropa,35000,2,2025-02-01,Concepción,Efectivo
+69,Silla Gamer,Hogar,120000,1,2025-05-11,La Serena,Transferencia
+70,Celular,Electrónica,250000,1,2025-04-18,,Transferencia
+71,Auriculares,Electrónica,15000,1,2024-10-02,Valparaíso,Tarjeta
+72,Zapatos,Ropa,35000,4,2025-07-23,La Serena,Tarjeta
+73,Zapatos,Ropa,35000,1,2025-07-18,Valparaíso,Efectivo
+74,Auriculares,Electrónica,15000,4,2024-10-26,Concepción,Efectivo
+75,Escritorio,Hogar,70000,4,2025-02-08,,Transferencia
+76,Licuadora,Hogar,45000,4,2024-11-03,Valparaíso,Tarjeta
+77,Escritorio,Hogar,70000,2,2024-09-19,Santiago,Transferencia
+78,Licuadora,Hogar,45000,1,2024-10-10,,Efectivo
+79,Auriculares,Electrónica,15000,1,2025-03-07,Antofagasta,Efectivo
+80,Licuadora,Hogar,45000,5,2025-06-04,Valparaíso,Tarjeta
+81,Licuadora,Hogar,45000,1,2025-06-13,Valparaíso,Tarjeta
+82,Televisor,Electrónica,300000,1,2025-02-22,,Tarjeta
+83,Zapatos,Ropa,35000,1,2024-09-26,Antofagasta,Tarjeta
+84,Televisor,Electrónica,300000,5,2025-07-19,Santiago,Transferencia
+85,Celular,Electrónica,250000,4,2024-09-20,,Transferencia
+86,Televisor,Electrónica,300000,5,2024-09-28,Concepción,Efectivo
+87,Silla Gamer,Hogar,120000,3,2025-04-17,Valparaíso,Efectivo
+88,Zapatos,Ropa,35000,2,2024-11-13,,Transferencia
+89,Escritorio,Hogar,70000,4,2025-06-13,Concepción,Tarjeta
+90,Auriculares,Electrónica,15000,4,2025-01-25,Antofagasta,Transferencia
+91,Celular,Electrónica,250000,1,2024-10-25,Antofagasta,Tarjeta
+92,Licuadora,Hogar,45000,3,2025-01-26,Valparaíso,Efectivo
+93,Celular,Electrónica,250000,2,2025-08-04,Concepción,Efectivo
+94,Cargador,Electrónica,8000,4,2025-07-21,Antofagasta,Transferencia
+95,Escritorio,Hogar,70000,5,2024-11-22,,Transferencia
+96,Auriculares,Electrónica,15000,5,2025-03-13,Concepción,Transferencia
+97,Celular,Electrónica,250000,2,2024-12-27,Concepción,Tarjeta
+98,Celular,Electrónica,250000,5,2025-08-04,Valparaíso,Efectivo
+99,Escritorio,Hogar,70000,5,2025-03-25,Valparaíso,Transferencia
+100,Camisa,Ropa,18000,2,2025-06-29,,Transferencia
+101,Escritorio,Hogar,70000,5,2025-03-02,La Serena,Efectivo
+102,Auriculares,Electrónica,15000,1,2025-05-28,,Efectivo
+103,Escritorio,Hogar,70000,1,2025-04-01,Santiago,Efectivo
+104,Cargador,Electrónica,8000,3,2025-01-27,Valparaíso,Transferencia
+105,Polera,Ropa,12000,5,2025-04-22,,Efectivo
+106,Licuadora,Hogar,45000,1,2024-12-01,Santiago,Tarjeta
+107,Cargador,Electrónica,8000,5,2025-05-17,Santiago,Efectivo
+108,Televisor,Electrónica,300000,5,2024-11-30,Valparaíso,Efectivo
+109,Cargador,Electrónica,8000,1,2024-11-06,Concepción,Efectivo
+110,Auriculares,Electrónica,15000,3,2025-04-07,Valparaíso,Transferencia
+111,Silla Gamer,Hogar,120000,1,2024-12-16,Concepción,Transferencia
+112,Zapatos,Ropa,35000,5,2025-04-03,,Tarjeta
+113,Silla Gamer,Hogar,120000,2,2025-06-19,Valparaíso,Efectivo
+114,Auriculares,Electrónica,15000,2,2024-09-20,,Efectivo
+115,Zapatos,Ropa,35000,2,2024-09-06,Concepción,Tarjeta
+116,Celular,Electrónica,250000,4,2024-09-29,Santiago,Efectivo
+117,Silla Gamer,Hogar,120000,2,2025-04-21,La Serena,Efectivo
+118,Escritorio,Hogar,70000,2,2025-07-23,Valparaíso,Tarjeta
+119,Silla Gamer,Hogar,120000,4,2025-02-17,Concepción,Efectivo
+120,Celular,Electrónica,250000,3,2025-06-01,Concepción,Transferencia
+121,Licuadora,Hogar,45000,4,2025-07-05,,Transferencia
+122,Camisa,Ropa,18000,1,2025-08-08,Santiago,Efectivo
+123,Cargador,Electrónica,8000,5,2025-01-25,Concepción,Tarjeta
+124,Celular,Electrónica,250000,5,2025-05-24,La Serena,Efectivo
+125,Camisa,Ropa,18000,4,2025-06-26,Antofagasta,Transferencia
+126,Celular,Electrónica,250000,4,2024-10-20,Antofagasta,Tarjeta
+127,Escritorio,Hogar,70000,1,2024-10-20,,Efectivo
+128,Auriculares,Electrónica,15000,5,2024-12-29,Antofagasta,Transferencia
+129,Silla Gamer,Hogar,120000,3,2024-10-19,La Serena,Tarjeta
+130,Camisa,Ropa,18000,5,2024-12-22,Concepción,Transferencia
+131,Celular,Electrónica,250000,3,2025-01-10,Antofagasta,Efectivo
+132,Zapatos,Ropa,35000,3,2024-12-29,La Serena,Transferencia
+133,Escritorio,Hogar,70000,5,2025-01-23,Valparaíso,Tarjeta
+134,Zapatos,Ropa,35000,4,2025-02-03,,Transferencia
+135,Cargador,Electrónica,8000,5,2025-05-11,Antofagasta,Efectivo
+136,Zapatos,Ropa,35000,5,2024-12-29,Santiago,Efectivo
+137,Escritorio,Hogar,70000,2,2025-03-26,La Serena,Transferencia
+138,Televisor,Electrónica,300000,3,2024-10-05,La Serena,Efectivo
+139,Polera,Ropa,12000,2,2025-05-25,Antofagasta,Efectivo
+140,Cargador,Electrónica,8000,1,2024-12-11,Concepción,Transferencia
+141,Televisor,Electrónica,300000,3,2024-10-11,Santiago,Tarjeta
+142,Escritorio,Hogar,70000,2,2024-11-16,Valparaíso,Tarjeta
+143,Auriculares,Electrónica,15000,1,2025-03-18,Valparaíso,Efectivo
+144,Televisor,Electrónica,300000,1,2024-11-30,La Serena,Efectivo
+145,Televisor,Electrónica,300000,2,2025-02-02,,Transferencia
+146,Zapatos,Ropa,35000,4,2025-07-03,La Serena,Tarjeta
+147,Cargador,Electrónica,8000,1,2024-09-09,Santiago,Efectivo
+148,Silla Gamer,Hogar,120000,2,2024-12-25,,Transferencia
+149,Polera,Ropa,12000,1,2025-08-08,Antofagasta,Tarjeta
+150,Celular,Electrónica,250000,4,2025-07-19,Valparaíso,Efectivo
+151,Licuadora,Hogar,45000,5,2025-04-16,Antofagasta,Efectivo
+152,Polera,Ropa,12000,5,2024-11-22,,Transferencia
+153,Zapatos,Ropa,35000,5,2025-01-04,La Serena,Tarjeta
+154,Polera,Ropa,12000,4,2025-03-25,Concepción,Tarjeta
+155,Escritorio,Hogar,70000,5,2024-10-12,La Serena,Transferencia
+156,Silla Gamer,Hogar,120000,3,2024-09-11,La Serena,Tarjeta
+157,Escritorio,Hogar,70000,2,2024-12-12,Concepción,Efectivo
+158,Camisa,Ropa,18000,5,2025-02-05,Santiago,Tarjeta
+159,Cargador,Electrónica,8000,2,2024-11-25,La Serena,Transferencia
+160,Cargador,Electrónica,8000,2,2025-01-10,Santiago,Efectivo
+161,Zapatos,Ropa,35000,3,2025-03-05,Antofagasta,Efectivo
+162,Zapatos,Ropa,35000,1,2025-08-02,Valparaíso,Efectivo
+163,Zapatos,Ropa,35000,5,2025-04-16,,Tarjeta
+164,Televisor,Electrónica,300000,4,2025-07-18,La Serena,Tarjeta
+165,Camisa,Ropa,18000,3,2024-10-16,La Serena,Efectivo
+166,Licuadora,Hogar,45000,5,2025-01-19,Antofagasta,Tarjeta
+167,Polera,Ropa,12000,2,2024-10-22,Concepción,Efectivo
+168,Polera,Ropa,12000,1,2025-07-20,La Serena,Efectivo
+169,Zapatos,Ropa,35000,2,2024-10-10,La Serena,Tarjeta
+170,Televisor,Electrónica,300000,5,2025-06-02,Santiago,Efectivo
+171,Televisor,Electrónica,300000,5,2025-06-06,,Tarjeta
+172,Celular,Electrónica,250000,4,2025-05-02,Valparaíso,Efectivo
+173,Cargador,Electrónica,8000,1,2025-04-16,Concepción,Efectivo
+174,Camisa,Ropa,18000,2,2024-09-22,La Serena,Efectivo
+175,Camisa,Ropa,18000,4,2025-07-27,Concepción,Efectivo
+176,Escritorio,Hogar,70000,1,2025-08-29,La Serena,Tarjeta
+177,Licuadora,Hogar,45000,1,2025-05-12,Concepción,Tarjeta
+178,Celular,Electrónica,250000,1,2025-07-06,Santiago,Tarjeta
+179,Silla Gamer,Hogar,120000,1,2024-12-20,Antofagasta,Tarjeta
+180,Silla Gamer,Hogar,120000,2,2024-12-14,La Serena,Transferencia
+181,Celular,Electrónica,250000,5,2025-04-09,Valparaíso,Efectivo
+182,Escritorio,Hogar,70000,3,2025-05-06,Valparaíso,Transferencia
+183,Televisor,Electrónica,300000,1,2024-09-25,Valparaíso,Efectivo
+184,Celular,Electrónica,250000,5,2024-11-10,Santiago,Efectivo
+185,Televisor,Electrónica,300000,4,2025-06-03,La Serena,Transferencia
+186,Silla Gamer,Hogar,120000,1,2025-05-17,Antofagasta,Transferencia
+187,Silla Gamer,Hogar,120000,1,2024-12-07,,Efectivo
+188,Televisor,Electrónica,300000,1,2025-03-16,Antofagasta,Tarjeta
+189,Camisa,Ropa,18000,5,2024-09-14,La Serena,Transferencia
+190,Camisa,Ropa,18000,1,2025-02-01,Antofagasta,Transferencia
+191,Camisa,Ropa,18000,1,2025-03-05,La Serena,Efectivo
+192,Celular,Electrónica,250000,4,2025-08-19,Concepción,Transferencia
+193,Polera,Ropa,12000,2,2024-09-25,La Serena,Tarjeta
+194,Licuadora,Hogar,45000,3,2025-07-14,Antofagasta,Transferencia
+195,Polera,Ropa,12000,4,2025-08-05,La Serena,Transferencia
+196,Televisor,Electrónica,300000,3,2025-04-11,Concepción,Tarjeta
+197,Celular,Electrónica,250000,3,2025-03-23,La Serena,Tarjeta
+198,Polera,Ropa,12000,5,2025-06-07,Antofagasta,Transferencia
+199,Zapatos,Ropa,35000,3,2025-06-07,Santiago,Efectivo
+200,Camisa,Ropa,18000,2,2025-08-06,La Serena,Tarjeta
+201,Camisa,Ropa,18000,3,2024-11-18,Concepción,Efectivo
+202,Televisor,Electrónica,300000,3,2025-01-19,Antofagasta,Tarjeta
+203,Licuadora,Hogar,45000,2,2024-10-21,Santiago,Tarjeta
+204,Zapatos,Ropa,35000,4,2024-12-08,Antofagasta,Tarjeta
+205,Polera,Ropa,12000,4,2025-02-04,La Serena,Tarjeta
+206,Celular,Electrónica,250000,3,2025-02-06,Valparaíso,Efectivo
+207,Silla Gamer,Hogar,120000,3,2024-11-09,,Transferencia
+208,Camisa,Ropa,18000,4,2024-12-05,Antofagasta,Transferencia
+209,Camisa,Ropa,18000,4,2025-07-25,,Transferencia
+210,Camisa,Ropa,18000,3,2025-04-07,,Efectivo
+211,Escritorio,Hogar,70000,3,2024-10-05,Concepción,Tarjeta
+212,Celular,Electrónica,250000,2,2024-10-06,Concepción,Tarjeta
+213,Licuadora,Hogar,45000,2,2024-09-26,Valparaíso,Tarjeta
+214,Polera,Ropa,12000,3,2024-10-22,,Transferencia
+215,Licuadora,Hogar,45000,5,2024-10-25,Concepción,Tarjeta
+216,Silla Gamer,Hogar,120000,3,2024-10-23,Valparaíso,Efectivo
+217,Cargador,Electrónica,8000,3,2025-09-01,Santiago,Transferencia
+218,Licuadora,Hogar,45000,2,2025-06-05,Concepción,Tarjeta
+219,Auriculares,Electrónica,15000,5,2025-02-05,Concepción,Transferencia
+220,Cargador,Electrónica,8000,4,2024-09-08,Santiago,Tarjeta
+221,Televisor,Electrónica,300000,3,2025-07-26,La Serena,Efectivo
+222,Polera,Ropa,12000,3,2024-12-03,Valparaíso,Tarjeta
+223,Escritorio,Hogar,70000,4,2025-06-11,Santiago,Tarjeta
+224,Zapatos,Ropa,35000,4,2024-12-11,Santiago,Transferencia
+225,Auriculares,Electrónica,15000,2,2025-06-17,Valparaíso,Transferencia
+226,Escritorio,Hogar,70000,1,2025-06-11,Valparaíso,Tarjeta
+227,Licuadora,Hogar,45000,4,2025-06-19,Antofagasta,Transferencia
+228,Televisor,Electrónica,300000,2,2025-06-29,Antofagasta,Efectivo
+229,Polera,Ropa,12000,4,2025-07-12,Concepción,Transferencia
+230,Zapatos,Ropa,35000,3,2024-10-27,Antofagasta,Transferencia
+231,Auriculares,Electrónica,15000,5,2025-01-06,,Tarjeta
+232,Silla Gamer,Hogar,120000,2,2025-07-28,Concepción,Transferencia
+233,Celular,Electrónica,250000,2,2025-01-28,Valparaíso,Tarjeta
+234,Licuadora,Hogar,45000,1,2024-09-21,Valparaíso,Tarjeta
+235,Zapatos,Ropa,35000,4,2025-01-18,,Transferencia
+236,Polera,Ropa,12000,3,2024-10-07,Santiago,Tarjeta
+237,Escritorio,Hogar,70000,3,2025-05-22,,Efectivo
+238,Celular,Electrónica,250000,2,2025-03-28,Concepción,Transferencia
+239,Televisor,Electrónica,300000,2,2025-01-19,La Serena,Tarjeta
+240,Licuadora,Hogar,45000,2,2025-06-28,,Tarjeta
+241,Escritorio,Hogar,70000,2,2025-03-31,Santiago,Tarjeta
+242,Cargador,Electrónica,8000,3,2025-01-18,Antofagasta,Transferencia
+243,Televisor,Electrónica,300000,3,2024-11-04,La Serena,Tarjeta
+244,Polera,Ropa,12000,3,2025-05-27,,Efectivo
+245,Escritorio,Hogar,70000,5,2025-07-18,Antofagasta,Efectivo
+246,Polera,Ropa,12000,1,2024-11-12,Antofagasta,Tarjeta
+247,Zapatos,Ropa,35000,3,2025-03-24,Antofagasta,Efectivo
+248,Auriculares,Electrónica,15000,1,2025-01-31,Valparaíso,Transferencia
+249,Televisor,Electrónica,300000,5,2025-06-19,Santiago,Transferencia
+250,Escritorio,Hogar,70000,5,2025-03-03,Santiago,Tarjeta
+251,Polera,Ropa,12000,5,2024-10-09,,Efectivo
+252,Escritorio,Hogar,70000,2,2025-07-06,Antofagasta,Efectivo
+253,Polera,Ropa,12000,1,2025-07-08,La Serena,Efectivo
+254,Zapatos,Ropa,35000,3,2025-07-02,Concepción,Transferencia
+255,Celular,Electrónica,250000,2,2024-11-26,Concepción,Efectivo
+256,Polera,Ropa,12000,3,2024-11-15,,Efectivo
+257,Licuadora,Hogar,45000,1,2024-11-15,La Serena,Tarjeta
+258,Camisa,Ropa,18000,3,2025-08-26,Concepción,Tarjeta
+259,Zapatos,Ropa,35000,5,2025-08-15,Santiago,Transferencia
+260,Licuadora,Hogar,45000,4,2025-07-30,La Serena,Tarjeta
+261,Silla Gamer,Hogar,120000,5,2024-11-14,Concepción,Transferencia
+262,Polera,Ropa,12000,4,2025-04-10,Santiago,Tarjeta
+263,Escritorio,Hogar,70000,5,2025-04-10,Valparaíso,Efectivo
+264,Polera,Ropa,12000,4,2025-05-05,Santiago,Tarjeta
+265,Televisor,Electrónica,300000,2,2024-11-29,,Tarjeta
+266,Escritorio,Hogar,70000,5,2025-01-20,Santiago,Transferencia
+267,Zapatos,Ropa,35000,1,2024-12-07,Valparaíso,Tarjeta
+268,Polera,Ropa,12000,1,2025-02-10,,Tarjeta
+269,Polera,Ropa,12000,3,2025-03-13,Antofagasta,Transferencia
+270,Escritorio,Hogar,70000,4,2025-01-18,La Serena,Efectivo
+271,Silla Gamer,Hogar,120000,4,2025-02-21,Antofagasta,Tarjeta
+272,Zapatos,Ropa,35000,2,2025-08-22,Antofagasta,Transferencia
+273,Cargador,Electrónica,8000,1,2024-11-30,Concepción,Efectivo
+274,Camisa,Ropa,18000,5,2025-04-21,Concepción,Tarjeta
+275,Escritorio,Hogar,70000,3,2025-01-07,Antofagasta,Transferencia
+276,Polera,Ropa,12000,2,2025-02-13,La Serena,Transferencia
+277,Polera,Ropa,12000,3,2025-05-28,Concepción,Transferencia
+278,Licuadora,Hogar,45000,4,2024-12-23,La Serena,Efectivo
+279,Silla Gamer,Hogar,120000,2,2024-09-26,Antofagasta,Efectivo
+280,Silla Gamer,Hogar,120000,4,2025-01-27,Santiago,Efectivo
+281,Polera,Ropa,12000,4,2024-10-02,La Serena,Transferencia
+282,Cargador,Electrónica,8000,4,2025-03-03,Santiago,Tarjeta
+283,Licuadora,Hogar,45000,5,2024-11-29,Concepción,Tarjeta
+284,Polera,Ropa,12000,1,2024-12-23,Antofagasta,Efectivo
+285,Auriculares,Electrónica,15000,2,2024-12-11,La Serena,Transferencia
+286,Cargador,Electrónica,8000,1,2025-09-04,La Serena,Efectivo
+287,Camisa,Ropa,18000,5,2025-07-31,,Efectivo
+288,Celular,Electrónica,250000,3,2025-08-17,,Transferencia
+289,Zapatos,Ropa,35000,3,2025-08-20,,Transferencia
+290,Polera,Ropa,12000,5,2024-09-26,Santiago,Transferencia
+291,Celular,Electrónica,250000,2,2024-11-06,,Transferencia
+292,Escritorio,Hogar,70000,2,2024-09-26,,Tarjeta
+293,Zapatos,Ropa,35000,1,2024-09-27,,Transferencia
+294,Celular,Electrónica,250000,4,2025-07-06,Valparaíso,Transferencia
+295,Escritorio,Hogar,70000,1,2025-04-23,Santiago,Efectivo
+296,Auriculares,Electrónica,15000,3,2025-08-08,Concepción,Efectivo
+297,Zapatos,Ropa,35000,2,2025-03-22,Valparaíso,Transferencia
+298,Zapatos,Ropa,35000,5,2024-10-20,,Tarjeta
+299,Cargador,Electrónica,8000,2,2025-03-26,Santiago,Transferencia
+300,Zapatos,Ropa,35000,5,2025-04-24,,Tarjeta
+301,Polera,Ropa,12000,5,2025-04-25,Valparaíso,Tarjeta
+302,Polera,Ropa,12000,3,2025-02-13,La Serena,Efectivo
+303,Auriculares,Electrónica,15000,4,2025-04-14,Concepción,Transferencia
+304,Licuadora,Hogar,45000,2,2025-08-11,Santiago,Efectivo
+305,Camisa,Ropa,18000,5,2024-10-10,Concepción,Transferencia
+306,Zapatos,Ropa,35000,3,2025-04-11,La Serena,Efectivo
+307,Silla Gamer,Hogar,120000,4,2025-06-17,La Serena,Tarjeta
+308,Silla Gamer,Hogar,120000,4,2025-04-04,Antofagasta,Efectivo
+309,Televisor,Electrónica,300000,3,2025-07-18,,Efectivo
+310,Auriculares,Electrónica,15000,4,2025-05-21,Concepción,Tarjeta
+311,Televisor,Electrónica,300000,1,2025-07-30,Antofagasta,Transferencia
+312,Polera,Ropa,12000,3,2025-02-15,Valparaíso,Transferencia
+313,Camisa,Ropa,18000,2,2024-10-11,,Tarjeta
+314,Televisor,Electrónica,300000,3,2025-05-31,,Transferencia
+315,Cargador,Electrónica,8000,1,2025-07-12,,Transferencia
+316,Auriculares,Electrónica,15000,3,2025-03-11,La Serena,Tarjeta
+317,Televisor,Electrónica,300000,3,2024-12-05,,Tarjeta
+318,Celular,Electrónica,250000,3,2024-12-01,Concepción,Transferencia
+319,Zapatos,Ropa,35000,2,2024-11-05,Valparaíso,Tarjeta
+320,Licuadora,Hogar,45000,3,2024-11-18,Antofagasta,Transferencia
+321,Escritorio,Hogar,70000,2,2024-12-29,Concepción,Efectivo
+322,Escritorio,Hogar,70000,3,2025-08-10,Santiago,Efectivo
+323,Celular,Electrónica,250000,2,2024-11-21,Valparaíso,Transferencia
+324,Zapatos,Ropa,35000,5,2025-05-07,Concepción,Tarjeta
+325,Zapatos,Ropa,35000,1,2024-10-27,Concepción,Transferencia
+326,Celular,Electrónica,250000,4,2025-08-30,Concepción,Transferencia
+327,Escritorio,Hogar,70000,5,2025-06-04,La Serena,Transferencia
+328,Camisa,Ropa,18000,1,2024-09-29,,Tarjeta
+329,Polera,Ropa,12000,1,2025-01-21,Antofagasta,Transferencia
+330,Camisa,Ropa,18000,5,2024-11-15,Valparaíso,Transferencia
+331,Celular,Electrónica,250000,4,2025-06-17,,Efectivo
+332,Zapatos,Ropa,35000,1,2024-12-06,Valparaíso,Tarjeta
+333,Auriculares,Electrónica,15000,3,2025-07-04,La Serena,Tarjeta
+334,Celular,Electrónica,250000,2,2025-05-16,Antofagasta,Tarjeta
+335,Zapatos,Ropa,35000,4,2025-01-20,Concepción,Transferencia
+336,Licuadora,Hogar,45000,4,2024-12-09,Antofagasta,Transferencia
+337,Cargador,Electrónica,8000,4,2025-06-25,,Tarjeta
+338,Polera,Ropa,12000,5,2024-11-13,La Serena,Efectivo
+339,Auriculares,Electrónica,15000,3,2025-07-11,Valparaíso,Efectivo
+340,Polera,Ropa,12000,2,2025-05-27,Concepción,Tarjeta
+341,Camisa,Ropa,18000,5,2025-05-16,,Efectivo
+342,Auriculares,Electrónica,15000,4,2024-10-10,Concepción,Tarjeta
+343,Celular,Electrónica,250000,4,2024-10-21,Santiago,Transferencia
+344,Silla Gamer,Hogar,120000,5,2025-08-21,Santiago,Tarjeta
+345,Camisa,Ropa,18000,2,2024-11-08,Valparaíso,Transferencia
+346,Silla Gamer,Hogar,120000,1,2025-06-14,Antofagasta,Tarjeta
+347,Televisor,Electrónica,300000,2,2025-05-27,Valparaíso,Efectivo
+348,Cargador,Electrónica,8000,5,2025-06-17,Santiago,Efectivo
+349,Cargador,Electrónica,8000,2,2025-06-08,Antofagasta,Efectivo
+350,Cargador,Electrónica,8000,1,2025-02-08,,Tarjeta
+351,Cargador,Electrónica,8000,1,2025-03-11,Concepción,Tarjeta
+352,Televisor,Electrónica,300000,3,2024-11-06,Santiago,Tarjeta
+353,Escritorio,Hogar,70000,1,2024-11-04,Valparaíso,Transferencia
+354,Zapatos,Ropa,35000,5,2025-07-01,Santiago,Transferencia
+355,Celular,Electrónica,250000,4,2025-08-27,La Serena,Efectivo
+356,Licuadora,Hogar,45000,5,2025-08-22,Santiago,Efectivo
+357,Licuadora,Hogar,45000,2,2025-07-15,Antofagasta,Tarjeta
+358,Licuadora,Hogar,45000,3,2024-09-12,La Serena,Transferencia
+359,Auriculares,Electrónica,15000,1,2024-11-26,La Serena,Efectivo
+360,Zapatos,Ropa,35000,1,2024-10-24,La Serena,Transferencia
+361,Polera,Ropa,12000,1,2024-09-26,Santiago,Efectivo
+362,Televisor,Electrónica,300000,2,2025-07-22,Santiago,Tarjeta
+363,Escritorio,Hogar,70000,5,2025-06-20,,Transferencia
+364,Licuadora,Hogar,45000,3,2025-05-28,La Serena,Transferencia
+365,Licuadora,Hogar,45000,3,2025-07-06,La Serena,Transferencia
+366,Televisor,Electrónica,300000,4,2025-05-03,Santiago,Transferencia
+367,Celular,Electrónica,250000,5,2025-08-16,,Tarjeta
+368,Zapatos,Ropa,35000,4,2024-09-20,Valparaíso,Efectivo
+369,Camisa,Ropa,18000,4,2024-10-02,La Serena,Efectivo
+370,Celular,Electrónica,250000,3,2025-03-25,La Serena,Efectivo
+371,Escritorio,Hogar,70000,3,2025-05-10,Valparaíso,Transferencia
+372,Polera,Ropa,12000,1,2025-07-11,Santiago,Tarjeta
+373,Celular,Electrónica,250000,4,2024-12-09,Santiago,Transferencia
+374,Camisa,Ropa,18000,2,2025-06-05,Antofagasta,Tarjeta
+375,Televisor,Electrónica,300000,5,2025-05-07,Antofagasta,Efectivo
+376,Celular,Electrónica,250000,4,2025-04-06,Concepción,Transferencia
+377,Zapatos,Ropa,35000,1,2024-10-26,Concepción,Transferencia
+378,Escritorio,Hogar,70000,3,2025-08-04,Santiago,Transferencia
+379,Licuadora,Hogar,45000,2,2025-08-07,Valparaíso,Transferencia
+380,Polera,Ropa,12000,2,2024-09-19,Santiago,Efectivo
+381,Licuadora,Hogar,45000,3,2025-04-30,Santiago,Efectivo
+382,Televisor,Electrónica,300000,2,2025-07-09,La Serena,Transferencia
+383,Televisor,Electrónica,300000,5,2025-02-03,,Transferencia
+384,Licuadora,Hogar,45000,1,2025-05-20,Antofagasta,Transferencia
+385,Escritorio,Hogar,70000,1,2025-04-19,Valparaíso,Efectivo
+386,Escritorio,Hogar,70000,3,2025-09-03,Concepción,Tarjeta
+387,Cargador,Electrónica,8000,2,2025-02-21,Antofagasta,Transferencia
+388,Zapatos,Ropa,35000,1,2024-12-06,Valparaíso,Transferencia
+389,Auriculares,Electrónica,15000,1,2025-06-20,,Transferencia
+390,Silla Gamer,Hogar,120000,4,2025-01-13,La Serena,Efectivo
+391,Camisa,Ropa,18000,2,2025-04-17,Concepción,Efectivo
+392,Camisa,Ropa,18000,5,2025-06-05,Antofagasta,Tarjeta
+393,Auriculares,Electrónica,15000,2,2024-12-16,Valparaíso,Transferencia
+394,Auriculares,Electrónica,15000,1,2025-01-28,Concepción,Efectivo
+395,Zapatos,Ropa,35000,4,2025-06-01,Antofagasta,Efectivo
+396,Zapatos,Ropa,35000,3,2025-08-24,Valparaíso,Transferencia
+397,Celular,Electrónica,250000,3,2024-11-27,La Serena,Tarjeta
+398,Escritorio,Hogar,70000,5,2024-09-23,La Serena,Transferencia
+399,Escritorio,Hogar,70000,1,2025-02-24,Valparaíso,Efectivo
+400,Televisor,Electrónica,300000,1,2024-10-02,Santiago,Tarjeta
+401,Escritorio,Hogar,70000,2,2025-05-08,Valparaíso,Efectivo
+402,Escritorio,Hogar,70000,3,2025-05-25,Santiago,Tarjeta
+403,Polera,Ropa,12000,4,2025-07-01,Valparaíso,Tarjeta
+404,Zapatos,Ropa,35000,5,2024-09-24,,Tarjeta
+405,Licuadora,Hogar,45000,5,2025-06-17,,Efectivo
+406,Celular,Electrónica,250000,4,2025-08-29,,Tarjeta
+407,Zapatos,Ropa,35000,1,2024-11-20,La Serena,Tarjeta
+408,Camisa,Ropa,18000,5,2024-10-20,La Serena,Transferencia
+409,Zapatos,Ropa,35000,4,2025-05-02,Concepción,Tarjeta
+410,Zapatos,Ropa,35000,1,2024-11-14,Concepción,Tarjeta
+411,Televisor,Electrónica,300000,4,2025-03-19,,Efectivo
+412,Celular,Electrónica,250000,4,2025-02-17,Santiago,Tarjeta
+413,Zapatos,Ropa,35000,5,2025-02-11,La Serena,Transferencia
+414,Celular,Electrónica,250000,4,2024-10-22,Concepción,Transferencia
+415,Camisa,Ropa,18000,2,2025-06-15,Concepción,Tarjeta
+416,Celular,Electrónica,250000,5,2025-07-31,,Tarjeta
+417,Licuadora,Hogar,45000,5,2025-03-03,Valparaíso,Efectivo
+418,Camisa,Ropa,18000,2,2025-02-16,Valparaíso,Tarjeta
+419,Cargador,Electrónica,8000,3,2024-12-31,Valparaíso,Tarjeta
+420,Televisor,Electrónica,300000,2,2024-09-19,,Tarjeta
+421,Cargador,Electrónica,8000,4,2025-02-18,La Serena,Transferencia
+422,Televisor,Electrónica,300000,4,2024-10-31,,Transferencia
+423,Televisor,Electrónica,300000,3,2025-03-14,,Efectivo
+424,Cargador,Electrónica,8000,4,2025-08-06,Santiago,Efectivo
+425,Polera,Ropa,12000,3,2024-12-01,Concepción,Transferencia
+426,Auriculares,Electrónica,15000,3,2025-07-23,Antofagasta,Tarjeta
+427,Escritorio,Hogar,70000,4,2025-03-17,La Serena,Tarjeta
+428,Auriculares,Electrónica,15000,3,2025-01-16,Concepción,Tarjeta
+429,Celular,Electrónica,250000,5,2025-03-28,Antofagasta,Transferencia
+430,Zapatos,Ropa,35000,4,2024-12-06,Antofagasta,Transferencia
+431,Auriculares,Electrónica,15000,4,2025-05-25,Antofagasta,Transferencia
+432,Silla Gamer,Hogar,120000,3,2025-02-01,Antofagasta,Efectivo
+433,Licuadora,Hogar,45000,2,2025-07-08,Santiago,Efectivo
+434,Celular,Electrónica,250000,3,2024-12-07,,Tarjeta
+435,Licuadora,Hogar,45000,2,2024-10-22,Santiago,Tarjeta
+436,Polera,Ropa,12000,4,2024-11-19,Antofagasta,Transferencia
+437,Televisor,Electrónica,300000,2,2025-02-16,Concepción,Efectivo
+438,Escritorio,Hogar,70000,4,2025-07-29,La Serena,Efectivo
+439,Televisor,Electrónica,300000,1,2025-05-06,,Transferencia
+440,Camisa,Ropa,18000,1,2025-04-07,Concepción,Tarjeta
+441,Licuadora,Hogar,45000,4,2024-11-02,Concepción,Efectivo
+442,Televisor,Electrónica,300000,2,2025-06-26,Concepción,Tarjeta
+443,Televisor,Electrónica,300000,2,2024-11-16,Concepción,Efectivo
+444,Zapatos,Ropa,35000,2,2025-01-26,Antofagasta,Transferencia
+445,Celular,Electrónica,250000,3,2024-10-17,Antofagasta,Efectivo
+446,Camisa,Ropa,18000,2,2025-08-27,,Transferencia
+447,Licuadora,Hogar,45000,1,2025-01-07,,Transferencia
+448,Zapatos,Ropa,35000,5,2024-10-13,Concepción,Tarjeta
+449,Camisa,Ropa,18000,3,2025-04-11,Valparaíso,Tarjeta
+450,Camisa,Ropa,18000,4,2025-05-10,Valparaíso,Tarjeta
+451,Cargador,Electrónica,8000,2,2025-05-01,Santiago,Efectivo
+452,Celular,Electrónica,250000,5,2025-04-14,Antofagasta,Transferencia
+453,Licuadora,Hogar,45000,1,2024-11-27,,Efectivo
+454,Televisor,Electrónica,300000,2,2025-01-16,Antofagasta,Efectivo
+455,Cargador,Electrónica,8000,2,2024-10-02,Valparaíso,Transferencia
+456,Televisor,Electrónica,300000,2,2025-08-31,,Efectivo
+457,Auriculares,Electrónica,15000,4,2025-03-01,Concepción,Transferencia
+458,Silla Gamer,Hogar,120000,4,2025-04-06,Antofagasta,Efectivo
+459,Polera,Ropa,12000,2,2024-11-27,Antofagasta,Tarjeta
+460,Escritorio,Hogar,70000,4,2025-03-01,Valparaíso,Efectivo
+461,Televisor,Electrónica,300000,4,2024-10-06,La Serena,Efectivo
+462,Zapatos,Ropa,35000,5,2025-06-04,Antofagasta,Efectivo
+463,Cargador,Electrónica,8000,2,2025-05-14,Antofagasta,Tarjeta
+464,Escritorio,Hogar,70000,1,2024-09-06,,Efectivo
+465,Camisa,Ropa,18000,5,2024-09-26,Santiago,Transferencia
+466,Licuadora,Hogar,45000,1,2024-12-10,Concepción,Tarjeta
+467,Cargador,Electrónica,8000,3,2025-07-14,La Serena,Transferencia
+468,Cargador,Electrónica,8000,4,2024-11-21,Santiago,Tarjeta
+469,Polera,Ropa,12000,3,2025-04-08,Santiago,Efectivo
+470,Auriculares,Electrónica,15000,4,2025-06-08,Antofagasta,Efectivo
+471,Silla Gamer,Hogar,120000,4,2025-02-17,Santiago,Efectivo
+472,Silla Gamer,Hogar,120000,1,2025-06-15,Concepción,Tarjeta
+473,Camisa,Ropa,18000,2,2024-10-05,Valparaíso,Tarjeta
+474,Escritorio,Hogar,70000,4,2024-10-03,,Tarjeta
+475,Polera,Ropa,12000,4,2025-04-24,Antofagasta,Tarjeta
+476,Celular,Electrónica,250000,1,2024-09-05,Concepción,Tarjeta
+477,Cargador,Electrónica,8000,5,2024-11-28,,Transferencia
+478,Licuadora,Hogar,45000,4,2025-05-29,Santiago,Efectivo
+479,Silla Gamer,Hogar,120000,3,2025-06-19,Santiago,Tarjeta
+480,Silla Gamer,Hogar,120000,4,2024-10-01,,Transferencia
+481,Polera,Ropa,12000,1,2025-02-17,Santiago,Efectivo
+482,Televisor,Electrónica,300000,5,2024-10-11,Santiago,Transferencia
+483,Licuadora,Hogar,45000,5,2025-01-29,Valparaíso,Transferencia
+484,Cargador,Electrónica,8000,3,2025-08-04,La Serena,Tarjeta
+485,Televisor,Electrónica,300000,3,2024-10-12,Valparaíso,Transferencia
+486,Zapatos,Ropa,35000,2,2024-09-29,,Transferencia
+487,Celular,Electrónica,250000,5,2025-03-20,Concepción,Tarjeta
+488,Licuadora,Hogar,45000,5,2024-10-17,Antofagasta,Transferencia
+489,Licuadora,Hogar,45000,1,2025-08-13,La Serena,Efectivo
+490,Auriculares,Electrónica,15000,4,2025-06-04,Concepción,Efectivo
+491,Auriculares,Electrónica,15000,3,2025-06-01,Santiago,Efectivo
+492,Silla Gamer,Hogar,120000,1,2025-09-02,Antofagasta,Transferencia
+493,Camisa,Ropa,18000,2,2025-02-19,Santiago,Efectivo
+494,Licuadora,Hogar,45000,3,2024-11-12,,Tarjeta
+495,Polera,Ropa,12000,4,2025-05-21,,Tarjeta
+496,Cargador,Electrónica,8000,1,2025-07-16,,Efectivo
+497,Auriculares,Electrónica,15000,3,2024-10-26,Valparaíso,Tarjeta
+498,Silla Gamer,Hogar,120000,1,2025-07-16,Concepción,Efectivo
+499,Licuadora,Hogar,45000,4,2025-08-18,Antofagasta,Efectivo
+500,Escritorio,Hogar,70000,1,2025-06-25,,Tarjeta
