@@ -1,0 +1,40 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de datos grandes (común en ML)
+#*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.model
+
+# Directorios de datos
+# data/
+# raw/
+# processed/
+
+# Logs
+*.log
+logs/
+
+# Configuraciones del IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
