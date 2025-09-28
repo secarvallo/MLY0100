@@ -1,4 +1,4 @@
-# Machine Larning
+# Machine Learning
 
 Machine Learning, es una asignatura optativa de especialidad de la carrera de Ingeniería en Informática y forma parte del itinerario formativo. Tiene como propósito que el/la estudiante conozca los avances en Aprendizaje de Máquina aplicado en problemáticas asociadas, principalmente, a tareas de clasificación.
 
