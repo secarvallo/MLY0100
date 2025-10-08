@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../OneDrive/Escritorio/PTY4614/LungLife"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../OneDrive/Escritorio/DATA_MINING_007V"
+		},
+		{
+			"path": "../../../../OneDrive/Escritorio/FML_02"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "LungLife",
+		"liveServer.settings.multiRootWorkspaceName": "LungLife"
+	}
+}
