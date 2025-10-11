@@ -13,8 +13,6 @@ Problemáticas que se pueden abordar con los datasets
 
 #### Problema
 
-
-
 **1.**    **Estimación de la duración y tarifa del viaje
 (Supervisado – Regresión)**
 
@@ -36,8 +34,6 @@ aplicable: Yellow Taxi, Green Taxi
 
 #### Dataset
 
-
-
 **1. Green Taxi Trip Records (LPEP)**
 
 Describe
@@ -58,7 +54,6 @@ payment_type: Tipo de pago (tarjeta, efectivo, etc.).
 trip_type:Viaje tomado en la calle o despachado por llamada.
 
 Incluye cargos adicionales como congestion_surcharge y desde 2025 el cbd_congestion_fee.
-
 
 url_2 = "https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2025-06.parquet"
 registros_viajes_eco = pd.read_parquet(url_2, engine="pyarrow")
