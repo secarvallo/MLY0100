@@ -1,0 +1,44 @@
+{
+  "proyecto": "Prediccion de Tarifas y Duracion de Viajes - NYC Green Taxi",
+  "fecha_evaluacion": "2025-10-21 02:31:28",
+  "metodologia": "CRISP-DM",
+  "fase_actual": "Evaluacion (Fase 5)",
+  "datasets": [
+    "modeling_total_green_tripdata_2025-06.parquet",
+    "modeling_trip_green_tripdata_2025-06.parquet"
+  ],
+  "targets_analizados": [
+    "total_amount",
+    "trip_duration_min"
+  ],
+  "modelos_evaluados": [
+    "LinearRegression",
+    "PolynomialFeatures_LR",
+    "RandomForest",
+    "DecisionTree",
+    "KNeighbors",
+    "Ridge",
+    "Lasso",
+    "NeuralNetwork"
+  ],
+  "resultados_principales": {
+    "total_amount": {
+      "mejor_modelo": "RandomForest",
+      "test_rmse": 0.9409682028425504,
+      "test_r2": 0.9962092897752497,
+      "test_mae": 0.22356489345958167,
+      "cv_rmse_mean": 0.8499981880315602,
+      "cv_rmse_std": 0.10655763770949933,
+      "cumple_criterios": true
+    },
+    "trip_duration_min": {
+      "mejor_modelo": "LinearRegression",
+      "test_rmse": 74.02713718844535,
+      "test_r2": 0.01872055859448052,
+      "test_mae": 10.937024976504983,
+      "cv_rmse_mean": 72.83863740890048,
+      "cv_rmse_std": 8.655480930213391,
+      "cumple_criterios": false
+    }
+  }
+}
