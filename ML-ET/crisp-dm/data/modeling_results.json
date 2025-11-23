@@ -1,0 +1,46 @@
+{
+  "best_model": "DBSCAN",
+  "optimal_k": 8,
+  "metrics": {
+    "kmeans": {
+      "silhouette": 0.22378329238260586,
+      "davies_bouldin": 1.3549687211675956,
+      "calinski_harabasz": 35.863110797039205
+    },
+    "hierarchical": {
+      "silhouette": 0.22015688071418812,
+      "davies_bouldin": 1.4932973777688612,
+      "calinski_harabasz": 33.11323918087519
+    },
+    "dbscan": {
+      "n_clusters": 2,
+      "n_outliers": 164,
+      "silhouette": 0.4932190769542381,
+      "davies_bouldin": 0.8002863213549101,
+      "calinski_harabasz": 115.1076432170463
+    }
+  },
+  "n_zones": 247,
+  "n_features": 19,
+  "features": [
+    "total_trips",
+    "avg_pickup_hour",
+    "std_pickup_hour",
+    "peak_hour",
+    "peak_hour_concentration_pct",
+    "pct_AM_Peak",
+    "pct_PM_Peak",
+    "pct_OP_day",
+    "pct_OP_night",
+    "pct_Early_Morning",
+    "pct_weekend_trips",
+    "avg_trip_distance",
+    "median_trip_distance",
+    "avg_trip_duration",
+    "avg_fare",
+    "avg_total_amount",
+    "avg_tip",
+    "avg_tolls",
+    "pct_yellow_taxi"
+  ]
+}
