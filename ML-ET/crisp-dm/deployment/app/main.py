@@ -4,27 +4,44 @@ import joblib
 import pandas as pd
 import numpy as np
 import os
+from contextlib import asynccontextmanager
 
-app = FastAPI(title="NYC Taxi Zone Clustering API", description="API for predicting cluster assignment of NYC Taxi Zones", version="1.0.0")
-
-# Load model and scaler
-MODEL_PATH = "app/models_assets/kmeans_model.pkl"
-SCALER_PATH = "app/models_assets/feature_scaler.pkl"
-
+# Global variables for model and scaler
 model = None
 scaler = None
 
-@app.on_event("startup")
-def load_assets():
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Startup
     global model, scaler
+    # Use absolute path relative to this file
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    MODEL_PATH = os.path.join(BASE_DIR, "models_assets", "kmeans_model.pkl")
+    SCALER_PATH = os.path.join(BASE_DIR, "models_assets", "feature_scaler.pkl")
+    
     try:
+        print(f"Loading model from: {MODEL_PATH}")
+        print(f"Loading scaler from: {SCALER_PATH}")
         model = joblib.load(MODEL_PATH)
         scaler = joblib.load(SCALER_PATH)
         print("Model and scaler loaded successfully.")
     except Exception as e:
         print(f"Error loading model or scaler: {e}")
-        # In production, you might want to raise an error or exit
-        pass
+        print(f"Current working directory: {os.getcwd()}")
+        print(f"Model path exists: {os.path.exists(MODEL_PATH)}")
+        print(f"Scaler path exists: {os.path.exists(SCALER_PATH)}")
+    
+    yield
+    
+    # Shutdown
+    print("Shutting down application...")
+
+app = FastAPI(
+    title="NYC Taxi Zone Clustering API", 
+    description="API for predicting cluster assignment of NYC Taxi Zones", 
+    version="1.0.1",
+    lifespan=lifespan
+)
 
 class ZoneFeatures(BaseModel):
     total_trips: float
@@ -50,6 +67,16 @@ class ZoneFeatures(BaseModel):
 @app.get("/")
 def read_root():
     return {"message": "Welcome to the NYC Taxi Zone Clustering API. Use /predict to get cluster assignments."}
+
+@app.get("/health")
+def health_check():
+    global model, scaler
+    return {
+        "status": "healthy" if (model is not None and scaler is not None) else "unhealthy",
+        "model_loaded": model is not None,
+        "scaler_loaded": scaler is not None,
+        "api_version": "1.0.1"
+    }
 
 @app.post("/predict")
 def predict_cluster(features: ZoneFeatures):
