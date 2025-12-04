@@ -7,5 +7,8 @@
 			"path": ".."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"powershell.cwd": "02.-Machine_Learning_704V",
+		"git.ignoreLimitWarning": true
+	}
 }
